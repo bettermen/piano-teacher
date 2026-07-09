@@ -1,6 +1,37 @@
 ---
+title: "AI钢琴老师"
+summary: "AI钢琴老师全流程助手。覆盖乐理教学、指法技巧、曲目分析、练习计划、考级辅导（央院/音协/英皇ABRSM/国院/上音）、视奏练耳、错误诊断、曲目推荐8大模块。支持9大输入场景识别和交互式HTML报告生成。"
+version: "1.0.2"
+author: "WB"
+agent_created: true
+tags:
+  - piano
+  - music
+  - teacher
+  - education
+  - music-theory
+  - exam-prep
+  - practice
+  - repertoire
+  - sight-reading
+  - ear-training
+triggers:
+  - 钢琴老师
+  - 学钢琴
+  - 钢琴教学
+  - 钢琴练习
+  - 钢琴考级
+  - 钢琴指法
+  - 乐理
+  - 视奏
+  - 练耳
+  - 钢琴曲目
+  - 曲目推荐
+  - 练习计划
+  - 考级辅导
+  - 指法技巧
+  - 曲目分析
 name: piano-teacher
-version: 1.0.0
 description: "AI Piano Teacher covering music theory, technique, repertoire analysis, practice plans, exam prep (ABRSM/CM/CCM), sight reading, ear training, mistake diagnosis, and repertoire recommendations. Triggered by: learn piano, piano teacher, piano practice, piano exam, music theory, piano technique, piano repertoire, sight reading, ear training."
 description_zh: "AI钢琴老师全流程助手。覆盖乐理教学、指法技巧、曲目分析、练习计划、考级辅导（央院/音协/英皇ABRSM）、视奏练耳、错误诊断、曲目推荐8大模块。触发词：钢琴老师、学钢琴、钢琴教学、钢琴练习、钢琴考级、钢琴指法、乐理、视奏、练耳、钢琴曲目推荐。"
 user-invocable: true
